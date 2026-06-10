@@ -1,6 +1,6 @@
 InternMatch 🎯
 A full-stack internship matching platform that connects students with the right opportunities through skill-based filtering and role-based access.
-🔗 Live Demo: internmatch-silk.vercel.app
+🔗 Live Demo: [internmatch-silk.vercel.app](https://internmatch-silk.vercel.app/internships)
 
 Features
 
